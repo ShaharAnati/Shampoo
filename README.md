@@ -1,2 +1,2 @@
 # Shampoo
-Help new developers 
+Help new developers complete their basic training
