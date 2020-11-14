@@ -1,0 +1,2 @@
+# Shampoo
+Help new developers 
